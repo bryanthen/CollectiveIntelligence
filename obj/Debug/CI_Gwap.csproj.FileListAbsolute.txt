@@ -1,0 +1,15 @@
+C:\Users\4\Visual Studio Project\CI_Gwap\CI_Gwap\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\4\Visual Studio Project\CI_Gwap\CI_Gwap\bin\CI_Gwap.dll
+C:\Users\4\Visual Studio Project\CI_Gwap\CI_Gwap\bin\CI_Gwap.pdb
+C:\Users\4\Visual Studio Project\CI_Gwap\CI_Gwap\obj\Debug\CI_Gwap.dll
+C:\Users\4\Visual Studio Project\CI_Gwap\CI_Gwap\obj\Debug\CI_Gwap.pdb
+C:\Users\4\Visual Studio Project\CI_Gwap\CI_Gwap\obj\Debug\CI_Gwap.Properties.Resources.resources
+C:\Users\4\Visual Studio Project\CI_Gwap\CI_Gwap\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\4\Visual Studio Project\CI_Gwap\CI_Gwap\obj\Debug\GenerateResource.write.1.tlog
+G:\Master- Ireland\Semester2\Collective Intelligence\CI_Gwap\CI_Gwap\bin\CI_Gwap.dll
+G:\Master- Ireland\Semester2\Collective Intelligence\CI_Gwap\CI_Gwap\bin\CI_Gwap.pdb
+G:\Master- Ireland\Semester2\Collective Intelligence\CI_Gwap\CI_Gwap\obj\Debug\CI_Gwap.csprojResolveAssemblyReference.cache
+G:\Master- Ireland\Semester2\Collective Intelligence\CI_Gwap\CI_Gwap\obj\Debug\CI_Gwap.Properties.Resources.resources
+G:\Master- Ireland\Semester2\Collective Intelligence\CI_Gwap\CI_Gwap\obj\Debug\CI_Gwap.csproj.GenerateResource.Cache
+G:\Master- Ireland\Semester2\Collective Intelligence\CI_Gwap\CI_Gwap\obj\Debug\CI_Gwap.dll
+G:\Master- Ireland\Semester2\Collective Intelligence\CI_Gwap\CI_Gwap\obj\Debug\CI_Gwap.pdb

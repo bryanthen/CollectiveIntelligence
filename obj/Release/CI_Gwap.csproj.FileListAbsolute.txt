@@ -1,0 +1,8 @@
+C:\Users\4\Visual Studio Project\CI_Gwap\CI_Gwap\bin\CI_Gwap.dll
+C:\Users\4\Visual Studio Project\CI_Gwap\CI_Gwap\bin\CI_Gwap.pdb
+C:\Users\4\Visual Studio Project\CI_Gwap\CI_Gwap\obj\Release\ResolveAssemblyReference.cache
+C:\Users\4\Visual Studio Project\CI_Gwap\CI_Gwap\obj\Release\CI_Gwap.Properties.Resources.resources
+C:\Users\4\Visual Studio Project\CI_Gwap\CI_Gwap\obj\Release\GenerateResource.read.1.tlog
+C:\Users\4\Visual Studio Project\CI_Gwap\CI_Gwap\obj\Release\GenerateResource.write.1.tlog
+C:\Users\4\Visual Studio Project\CI_Gwap\CI_Gwap\obj\Release\CI_Gwap.dll
+C:\Users\4\Visual Studio Project\CI_Gwap\CI_Gwap\obj\Release\CI_Gwap.pdb
